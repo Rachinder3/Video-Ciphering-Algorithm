@@ -68,9 +68,17 @@ main.py: main script for the complete program.
 
 Before Encrypting, the video is visible.
 
+
+===================================================================================================================================
+
+
 ![App Screenshot](screenshots/encrypting%20the%20file.JPG?raw=true)
 
 Encrypting the file, doing at the command line right now. In future, will create a complete application for the same.
+
+
+
+===================================================================================================================================
 
 
 ![App Screenshot](screenshots/after%20encrypting.JPG?raw=true)
@@ -78,19 +86,26 @@ Encrypting the file, doing at the command line right now. In future, will create
 After Encrypting, the video is not watchable anymore.
 
 
+===================================================================================================================================
+
 ![App Screenshot](screenshots/decrypting%20wrong%20key.JPG?raw=true)
 
 Decrypting with the wrong key, the video should not be watchable still.
+
+===================================================================================================================================
 
 
 ![App Screenshot](screenshots/unsuccessful%20decryption%20due%20to%20wrong%20key.JPG?raw=true)
 
 Video still not watchable, as the key that we entered was wrong.
 
+===================================================================================================================================
 
 ![App Screenshot](screenshots/right%20key.JPG?raw=true)
 
 Decrypting with the right key.
+
+===================================================================================================================================
 
 ![App Screenshot](screenshots/decrypting%20right%20key.JPG?raw=true)
 
