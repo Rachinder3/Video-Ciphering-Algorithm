@@ -1,0 +1,22 @@
+2022-03-03 20:04:20,885 INFO Encrypted the file.
+2022-03-03 20:13:42,394 INFO read data from file: input_videos/sample_video.mp4 
+2022-03-03 20:13:42,621 INFO Encrypted the file.
+2022-03-03 20:13:42,623 INFO The encrypted file has been stored at: encrypted_videos/encrypted.mp4
+2022-03-03 20:14:20,030 INFO Encrypted file read : encrypted_videos/encrypted.mp4
+2022-03-03 20:14:20,257 INFO Decryption done for file
+2022-03-03 20:14:20,258 INFO The decrypted file is stored at :decrypted_videos/decrypted.mp4
+2022-03-04 07:15:18,893 INFO read data from file: input_videos/sample_video.mp4 
+2022-03-04 07:15:19,121 INFO Encrypted the file.
+2022-03-04 07:15:19,123 INFO The encrypted file has been stored at: input_videos/sample_video.mp4
+2022-03-04 07:16:51,217 INFO Encrypted file read : input_videos/sample_video.mp4
+2022-03-04 07:16:51,446 INFO Decryption done for file
+2022-03-04 07:16:51,447 INFO The decrypted file is stored at :input_videos/sample_video.mp4
+2022-03-04 07:21:40,945 INFO read data from file: input_videos/sample_video.mp4 
+2022-03-04 07:21:41,176 INFO Encrypted the file.
+2022-03-04 07:21:41,178 INFO The encrypted file has been stored at: input_videos/sample_video.mp4
+2022-03-04 07:23:22,873 INFO Encrypted file read : input_videos/sample_video.mp4
+2022-03-04 07:23:23,104 INFO Decryption done for file
+2022-03-04 07:23:23,106 INFO The decrypted file is stored at :input_videos/sample_video.mp4
+2022-03-04 07:24:47,011 INFO Encrypted file read : input_videos/sample_video.mp4
+2022-03-04 07:24:47,242 INFO Decryption done for file
+2022-03-04 07:24:47,244 INFO The decrypted file is stored at :input_videos/sample_video.mp4

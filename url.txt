@@ -1,0 +1,5 @@
+input_videos/sample_video.mp4
+
+encrypted_videos/encrypted.mp4
+decrypted_videos/decrypted.mp4
+
