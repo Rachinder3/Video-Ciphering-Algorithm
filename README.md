@@ -64,7 +64,7 @@ main.py: main script for the complete program.
 
 
 ## Screenshots
-![App Screenshot](screnshots/Before Encrypting.JPG?raw=true)
+![App Screenshot](screenshots/Before%20Encrypting.JPG?raw=true)
 
 
 
