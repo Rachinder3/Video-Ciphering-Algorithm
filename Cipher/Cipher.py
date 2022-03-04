@@ -7,7 +7,8 @@ class Cipher:
     @staticmethod
     def encrypt_file(input_file_path, output_file_path, key):
         try:
-            file = open(input_file_path, 'rb')
+            """method to encrypt the file""""
+            file = open(input_file_path, 'rb')  # reading the file in binary mode
             data = file.read()
             file.close()
 
@@ -15,16 +16,16 @@ class Cipher:
 
 
 
-            Cipher.__log_obj.add_log(f"read data from file: {input_file_path} ")
+            Cipher.__log_obj.add_log(f"read data from file: {input_file_path} ")  # logging
 
-            byte_array_data = bytearray(data)
+            byte_array_data = bytearray(data)  # for each element in the data, getting its ASCII value.
 
             for index, item in enumerate(byte_array_data):
-                byte_array_data[index] = byte_array_data[index] ^ key
+                byte_array_data[index] = byte_array_data[index] ^ key   # doing XOR so that we can encrypt each bit
 
             Cipher.__log_obj.add_log("Encrypted the file.")
 
-            file = open(output_file_path, 'wb')
+            file = open(output_file_path, 'wb')  # writing the encrypted file
             file.write(byte_array_data)
             file.close()
 
